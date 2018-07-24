@@ -24,6 +24,11 @@ THE SOFTWARE.
 
 #ifndef CMP_H__
 #define CMP_H__
+#include <stdbool.h>
+#include <string.h>
+#include <stdlib.h>
+#include <stdint.h>
+
 
 struct cmp_ctx_s;
 
